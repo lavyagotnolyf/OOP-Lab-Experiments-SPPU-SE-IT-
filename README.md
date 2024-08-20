@@ -1,1 +1,1 @@
-# OOP-Lab-Experiments-SPPU-SE-IT-
+# OOP-Lab-Experiments-SPPU-SE-IT

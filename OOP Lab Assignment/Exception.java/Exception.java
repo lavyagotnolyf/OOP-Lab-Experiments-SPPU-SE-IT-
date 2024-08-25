@@ -1,8 +1,8 @@
 /*
 ============================================================================
- Name : Generating Payslip Of Employee
+ Name : Exception Handling
  Author : Lavya Jain
- Description : OOP Lab Assignment No. 3
+ Description : OOP Lab Assignment No. 6
 ============================================================================
 */
 //Problem Statement:-

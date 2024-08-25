@@ -59,4 +59,11 @@ Enter the First Number:12
 Enter the Second Number:11
 Result of division is: 1
 
+Enter the First Number:pqr
+Enter the Second Number:xyz
+System Throws Number Format Exception
+
+Enter the First Number:12
+Enter the Second Number:0
+System Throws Arithmetic Exception
  */
